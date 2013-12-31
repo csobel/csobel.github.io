@@ -1,0 +1,7 @@
+/* Custom css for use across my website */
+
+/* Main element in the nav menu e.g. link to home page */
+.lib-nav {
+	padding-left: 30px;
+	padding-right: 100px;
+}
