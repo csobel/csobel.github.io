@@ -15,3 +15,11 @@
 .center-text {
 	text-align: center;
 }
+
+.subtitle {
+	font-size: 24px;
+}
+
+.padded {
+	padding: 30px;
+}
